@@ -1,0 +1,47 @@
+img {
+  border-radius: 50%;
+}
+.h1{
+	color: blue;
+	font-family:Papyrus;
+	
+	
+}
+.h2{
+	display:flex;
+	flex-direction:row;
+}
+.d1{
+	
+  background-color: lightpink;
+  width:300px;
+  
+  
+}
+.d2{
+	background-color: lightpink;
+  width:300px;
+ }
+.d3{
+	background-color: lightpink;
+	
+  width:400px;
+  position:absolute;	
+  left:50%;
+  top:35px;
+}
+.d4{
+	background-color: lightpink;
+	
+  width:400px;
+  position:absolute;	
+  left:50%;
+  top:185px;
+}
+.d5{
+  background-color: lightpink;
+  width:400px;
+  position:absolute;	
+  left:50%;
+  top:350px;
+}
